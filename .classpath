@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-aop-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-aspects-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-beans-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-context-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-context-support-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-core-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-expression-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-instrument-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-jdbc-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-jms-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-messaging-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-orm-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-oxm-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-test-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/kyle/Syncthing/cloud_sync/Main/Spring 2022/COMP 373/Spring_Bookstore_lab -eclipse/lib/spring-tx-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
